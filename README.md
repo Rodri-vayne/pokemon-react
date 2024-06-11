@@ -41,13 +41,11 @@ _Las herramientas utilizadas son las siguientes_
 
 Por favor lee el [CONTRIBUTING.md](https://github.com/tu/proyecto/wiki) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
-## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
 
 ## Autores ✒️
 
-* **Anderson Bastidas** - *Trabajo Inicial* - [AndersX87](https://github.com/Anders87x) - *Pagina Web* - [AndersX87](https://anders87x.github.io/)
+* **Rodrigo Vayne** 
 
 ## Licencia 📄
 
@@ -60,8 +58,6 @@ Este proyecto está bajo la Licencia - mira el archivo [LICENSE.md](LICENSE.md) 
 * Da las gracias públicamente 🤓.
 * etc.
 
----
-⌨️ con ❤️ por [Anders87X](https://github.com/Anders87x) 😊
 
 # Getting Started with Create React App
 
