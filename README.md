@@ -1,3 +1,6 @@
+
+![pokemon](https://github.com/Rodri-vayne/pokemon-react/assets/168346840/37bc11b0-01ca-41d4-8e97-16a65647d80d)
+
 # WebAPP de Listado de Pokemon
 
 _Sistema desarrollado por anderson bastidas a modo de practica y material educativo_
